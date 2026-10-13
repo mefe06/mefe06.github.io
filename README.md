@@ -8,7 +8,7 @@ Live site: https://mefe06.github.io/
 
 - Edit `index.html` to change biography, papers, updates, and experience.
 - Edit `style.css` to change the appearance.
-- Replace `assets/efe.jpg` to update the portrait.
+- The homepage is intentionally photo-free for now.
 - Replace `assets/cv.pdf` with a current public CV. Keep private contact information out of the public copy.
 - Update the footer date when making content changes.
 
@@ -28,7 +28,7 @@ You can replace the WordPress site at `lorasdagi.com`, or keep it and use a sepa
 2. Add the chosen custom domain in this repository's **Settings → Pages** before changing DNS.
 3. At your DNS provider, use the appropriate configuration below. Preserve mail-related records.
 4. Enable **Enforce HTTPS** in Pages settings when the certificate is ready.
-5. Update the canonical URL, `og:url`, and `og:image` in `index.html` to the chosen domain.
+5. Update the canonical URL and `og:url` in `index.html` to the chosen domain.
 
 ### Keep the current site; add a research subdomain
 
